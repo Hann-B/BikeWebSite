@@ -1,0 +1,11 @@
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\bin\Debug\netcoreapp2.0\BikeSPA.deps.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\bin\Debug\netcoreapp2.0\BikeSPA.runtimeconfig.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\bin\Debug\netcoreapp2.0\BikeSPA.runtimeconfig.dev.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\bin\Debug\netcoreapp2.0\BikeSPA.dll
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\bin\Debug\netcoreapp2.0\BikeSPA.pdb
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\obj\Debug\netcoreapp2.0\BikeSPA.csprojResolveAssemblyReference.cache
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\obj\Debug\netcoreapp2.0\BikeSPA.csproj.CoreCompileInputs.cache
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\obj\Debug\netcoreapp2.0\BikeSPA.AssemblyInfoInputs.cache
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\obj\Debug\netcoreapp2.0\BikeSPA.AssemblyInfo.cs
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\obj\Debug\netcoreapp2.0\BikeSPA.dll
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\obj\Debug\netcoreapp2.0\BikeSPA.pdb
