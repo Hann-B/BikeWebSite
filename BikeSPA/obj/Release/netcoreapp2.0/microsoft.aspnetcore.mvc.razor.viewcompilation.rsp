@@ -1,0 +1,7 @@
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=BikeSPA
+--content-root=C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA
+--file=C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\Pages\Error.cshtml
+--file=C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\Pages\Index.cshtml
+--file=C:\Users\Hanna\Documents\Visual Studio 2017\Projects\BikeSPA\BikeSPA\Pages\_map.cshtml

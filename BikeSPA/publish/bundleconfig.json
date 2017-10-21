@@ -1,0 +1,22 @@
+﻿[
+  {
+    "outputFileName": "wwwroot/css/grayscale.min.css",
+
+    "inputFiles": [
+      "wwwroot/css/grayscale.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/grayscale.min.js",
+    "inputFiles": [
+      "wwwroot/js/grayscale.js"
+    ],
+
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+
+    "sourceMap": false
+  }
+]
